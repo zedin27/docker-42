@@ -1,0 +1,7 @@
+* Jupyter Notebook
+
+* Done init project in the `Systems` in Docker
+
+* ft_shooter from CPP Piscine rush00 using Docker
+
+* Working on Tinker Cart with Docker (work in progress)

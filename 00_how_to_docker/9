@@ -1,0 +1,8 @@
+docker run -ti --rm debian
+
+apt update
+apt install get
+apt install build-essential git gcc -y
+
+git config --global user.email "ztisnes@student.42.us.org"
+git config --global user.name "docker-1"

@@ -1,0 +1,3 @@
+docker network create -d overlay overmind
+
+#to see if our current network is there, we run docker network ls
